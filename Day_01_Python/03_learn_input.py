@@ -1,0 +1,6 @@
+name = input("Enter your name: ")
+age = int(input("Enter your age: "))
+salary = float(input("Enter salary: "))
+print("Hello", name, "Welcome to the world of Python programming")
+print("You are", age, "years old")
+print("Your salary is", salary)
